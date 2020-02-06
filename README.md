@@ -1,1 +1,1 @@
-# numerical-linear-algebraa
+# numerical-linear-algebra
